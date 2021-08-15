@@ -5,12 +5,12 @@ TriggerEvent('esx:getSharedObject', function(obj)
 end)
 
 voitures = {
-    {Nom = 'Fiat 600', label = 'fiat600', prix = 0},
-    {Nom = 'Renaut Zoe', label = 'zoe', prix = 0}
+    {Nom = 'Fiat 600', label = 'fiat600', prix = 150},
+    {Nom = 'Renaut Zoe', label = 'zoe', prix = 300}
 }
 
 motos = {
-    {Nom = 'Scooter', label = 'faggio', prix = 0}
+    {Nom = 'Scooter', label = 'faggio', prix = 100}
 }
 
 touches = {
